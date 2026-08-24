@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Recording Test Only" />
+              <option name="title_text" value="RecordPage_eLearning" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1589,11 +1589,6 @@
         <slidelink slideid="_player.6gSftOW2nqq" displaytext="Intro Scene" expand="true" type="slide" translationId="6W9FCy29Pyu">
           <links>
             <slidelink slideid="_player.6gSftOW2nqq.6rKCz1vlXLu" displaytext="Intro Slide" expand="false" type="slide" translationId="6NXfjegJus2" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5yWLrfqCgoj" displaytext="Intro Scene" expand="true" type="slide" translationId="602PaLOsTWB">
-          <links>
-            <slidelink slideid="_player.5yWLrfqCgoj.6M0TKyavbQf" displaytext="Intro Slide" expand="false" type="slide" translationId="6PKG2tSVDfP" />
           </links>
         </slidelink>
       </links>
